@@ -28,7 +28,7 @@ I am a full stack developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shubham19032004&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=Shubham1903200426&show=prs_merged,prs_merged_percentage&show_icons=true&hide=contribs,stars&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true)<br />
 
-<img src="https://raw.githubusercontent.com/Utkarsh-Singhal-26/Shubham19032004/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shubham19032004/output/snake.svg" alt="Snake animation" />
 
 ## Visitor Count
 <img align="left" src="https://profile-counter.glitch.me/shubham19032004/count.svg?"  />
