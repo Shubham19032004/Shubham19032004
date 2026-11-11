@@ -34,8 +34,7 @@ type Engineer struct {
 
 shubham := Engineer{
     Name:     "Shubham Nainwal",
-    Role:     "Backend Engineer @ piovation",
-    Location: "India 🇮🇳 (UTC +05:30)",
+    Role:     "Backend Engineer",
     Stack:    []string{"Go", "TypeScript", "Rust"},
     Focus:    "Systems that scale & stay boring",
 }
