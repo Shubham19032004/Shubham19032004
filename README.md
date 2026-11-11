@@ -69,35 +69,53 @@ shubham := Engineer{
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ### `~/projects`
 
-<p align="center">
-  <a href="https://github.com/Shubham19032004/go-count">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham19032004&repo=go-count&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Shubham19032004/InterpretedLanguage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham19032004&repo=InterpretedLanguage&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Shubham19032004/versionControl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham19032004&repo=versionControl&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Shubham19032004/resumeChecker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham19032004&repo=resumeChecker&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shubham19032004/InterpretedLanguage">🧠 InterpretedLanguage</a></h4>
+      <p>A programming language interpreter built from scratch in Go — lexer, parser and evaluator.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/Shubham19032004/InterpretedLanguage?style=flat-square&color=7c3aed" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shubham19032004/versionControl">🌿 versionControl</a></h4>
+      <p>A Git-inspired version control system written in Rust.</p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/Shubham19032004/versionControl?style=flat-square&color=7c3aed" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shubham19032004/go-count">⚡ go-count</a></h4>
+      <p>A fast command-line counting tool written in Go.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/Shubham19032004/go-count?style=flat-square&color=7c3aed" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Shubham19032004/resumeChecker">📄 resumeChecker</a></h4>
+      <p>A tool that analyzes resumes and gives feedback to improve them.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/github/stars/Shubham19032004/resumeChecker?style=flat-square&color=7c3aed" />
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+<!-- These images are generated inside this repo by the GitHub Action in .github/workflows -->
 ### `~/stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham19032004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&hide=stars" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham19032004&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubham19032004&theme=tokyonight&hide_border=true&background=00000000&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham19032004&bg_color=00000000&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
