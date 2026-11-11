@@ -66,56 +66,16 @@ shubham := Engineer{
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,grafana,git&theme=dark" />
 </p>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-### `~/projects`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shubham19032004/InterpretedLanguage">🧠 InterpretedLanguage</a></h4>
-      <p>A programming language interpreter built from scratch in Go — lexer, parser and evaluator.</p>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/Shubham19032004/InterpretedLanguage?style=flat-square&color=7c3aed" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shubham19032004/versionControl">🌿 versionControl</a></h4>
-      <p>A Git-inspired version control system written in Rust.</p>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/Shubham19032004/versionControl?style=flat-square&color=7c3aed" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shubham19032004/go-count">⚡ go-count</a></h4>
-      <p>A fast command-line counting tool written in Go.</p>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/Shubham19032004/go-count?style=flat-square&color=7c3aed" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Shubham19032004/resumeChecker">📄 resumeChecker</a></h4>
-      <p>A tool that analyzes resumes and gives feedback to improve them.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/github/stars/Shubham19032004/resumeChecker?style=flat-square&color=7c3aed" />
-    </td>
-  </tr>
-</table>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<!-- These images are generated inside this repo by the GitHub Action in .github/workflows -->
 ### `~/stats`
 
 <p align="center">
-  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://streak-stats.demolab.com?user=Shubham19032004&theme=tokyonight&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-</p>
-
-<p align="center">
-  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img width="100%" src="https://ghchart.rshah.org/7c3aed/Shubham19032004" alt="Contribution chart" />
 </p>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
